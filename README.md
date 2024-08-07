@@ -8,6 +8,11 @@ Movie API is a simple Node.js application that provides endpoints for retrieving
 - Retrieve detailed information about series
 - Get movies by genre
 
+## Technologies Used
+
+- JavaScript
+
+  
 ## Endpoints
 
 - `/list`: Fetches the latest updates.

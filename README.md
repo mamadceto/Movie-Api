@@ -62,40 +62,18 @@ Movie API is a simple Node.js application that provides endpoints for retrieving
     npm start
     ```
 
-The server will start on port 3000 by default. You can access it at `http://localhost:3000`.
+The server will start on port 3000 by default. You can access it at `http://localhost:8000`.
 
-# Demos
+## Demos
 
-# Genres :
+You can test the API endpoints mentioned in the "API Endpoints" section on this demo link:
 
-- Action: [https://cetomovie.onrender.com/MAction](https://cetomovie.onrender.com/MAction)
-- Adventure: [https://cetomovie.onrender.com/MAdventure](https://cetomovie.onrender.com/MAdventure)
-- Animation: [https://cetomovie.onrender.com/MAnimation](https://cetomovie.onrender.com/MAnimation)
-- Weeklyoffer: [https://cetomovie.onrender.com/MWeeklyoffer](https://cetomovie.onrender.com/MWeeklyoffer)
-- ChinaJapan: [https://cetomovie.onrender.com/MChinaJapan](https://cetomovie.onrender.com/MChinaJapan)
-- Comedy: [https://cetomovie.onrender.com/MComedy](https://cetomovie.onrender.com/MComedy)
-- Cool: [https://cetomovie.onrender.com/MCool](https://cetomovie.onrender.com/MCool)
-- Criminal: [https://cetomovie.onrender.com/MCriminal](https://cetomovie.onrender.com/MCriminal)
-- Documentary: [https://cetomovie.onrender.com/MDocumentary](https://cetomovie.onrender.com/MDocumentary)
-- Western: [https://cetomovie.onrender.com/MWestern](https://cetomovie.onrender.com/MWestern)
-- Drama: [https://cetomovie.onrender.com/MDrama](https://cetomovie.onrender.com/MDrama)
-- War: [https://cetomovie.onrender.com/MWar](https://cetomovie.onrender.com/MWar)
-- Family: [https://cetomovie.onrender.com/MFamily](https://cetomovie.onrender.com/MFamily)
-- Fantasy: [https://cetomovie.onrender.com/MFantasy](https://cetomovie.onrender.com/MFantasy)
-- Favorites: [https://cetomovie.onrender.com/MFavorites](https://cetomovie.onrender.com/MFavorites)
-- Historical: [https://cetomovie.onrender.com/MHistorical](https://cetomovie.onrender.com/MHistorical)
-- Indian: [https://cetomovie.onrender.com/MIndian](https://cetomovie.onrender.com/MIndian)
-- Korean: [https://cetomovie.onrender.com/MKorean](https://cetomovie.onrender.com/MKorean)
-- Music: [https://cetomovie.onrender.com/MMusic](https://cetomovie.onrender.com/MMusic)
-- Mystery: [https://cetomovie.onrender.com/MMystery](https://cetomovie.onrender.com/MMystery)
-- Newseries: [https://cetomovie.onrender.com/MNewseries](https://cetomovie.onrender.com/MNewseries)
-- Oscar2023: [https://cetomovie.onrender.com/MOscar2023](https://cetomovie.onrender.com/MOscar2023)
-- Romantic: [https://cetomovie.onrender.com/MRomantic](https://cetomovie.onrender.com/MRomantic)
-- Scary: [https://cetomovie.onrender.com/MScary](https://cetomovie.onrender.com/MScary)
-- ScienceFiction: [https://cetomovie.onrender.com/MScienceFiction](https://cetomovie.onrender.com/MScienceFiction)
+- [https://cetomovie.onrender.com/](https://cetomovie.onrender.com/)
 
-# List ( Last Update )
-- [https://cetomovie.onrender.com/list](https://cetomovie.onrender.com/list)
+### Example :
 
-# Search
-- [https://cetomovie.onrender.com/search](https://cetomovie.onrender.com/search)
+To fetch movies in the Action genre, you can use the following URL:
+
+- [Action Movies](https://cetomovie.onrender.com/MAction)
+
+

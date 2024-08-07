@@ -66,7 +66,8 @@ The server will start on port 3000 by default. You can access it at `http://loca
 
 # Demos
 
-## ژانر ها
+# Genres :
+
 - Action: [https://cetomovie.onrender.com/MAction](https://cetomovie.onrender.com/MAction)
 - Adventure: [https://cetomovie.onrender.com/MAdventure](https://cetomovie.onrender.com/MAdventure)
 - Animation: [https://cetomovie.onrender.com/MAnimation](https://cetomovie.onrender.com/MAnimation)
@@ -93,8 +94,8 @@ The server will start on port 3000 by default. You can access it at `http://loca
 - Scary: [https://cetomovie.onrender.com/MScary](https://cetomovie.onrender.com/MScary)
 - ScienceFiction: [https://cetomovie.onrender.com/MScienceFiction](https://cetomovie.onrender.com/MScienceFiction)
 
-## List ( Last Update )
+# List ( Last Update )
 - [https://cetomovie.onrender.com/list](https://cetomovie.onrender.com/list)
 
-## Search
+# Search
 - [https://cetomovie.onrender.com/search](https://cetomovie.onrender.com/search)

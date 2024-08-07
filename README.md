@@ -66,7 +66,7 @@ The server will start on port 3000 by default. You can access it at `http://loca
 
 ## Demos
 
-You can test the API endpoints mentioned in the "API Endpoints" section on this demo link:
+You can use the Endpoints section to test the demo and put what you want at the end of the domain below
 
 - [https://cetomovie.onrender.com/](https://cetomovie.onrender.com/)
 
@@ -74,6 +74,6 @@ You can test the API endpoints mentioned in the "API Endpoints" section on this 
 
 To fetch movies in the Action genre, you can use the following URL:
 
-- [Action Movies](https://cetomovie.onrender.com/MAction)
+- [https://cetomovie.onrender.com/MAction](https://cetomovie.onrender.com/MAction)
 
 
